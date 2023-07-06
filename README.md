@@ -49,7 +49,7 @@ To modify or enhance the daily planner application, follow these steps:
 
 ## Credits
 
-The daily planner application was developed by [Your Name].
+The daily planner application was developed by [Keybit-1].
 
 ## License
 
