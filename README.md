@@ -2,7 +2,7 @@
 
 This is a simple daily planner application designed for employees with busy schedules. It allows users to add important events to a daily planner, helping them manage their time effectively. The application provides the following features:
 
-## Acceptance Criteria
+## Features
 
 - The current day is displayed at the top of the calendar when the planner is opened.
 - Timeblocks for standard business hours of 9am to 5pm are presented when scrolling down.
